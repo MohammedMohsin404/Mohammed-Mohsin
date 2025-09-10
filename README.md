@@ -101,7 +101,7 @@ Deploy easily on **[Vercel](https://vercel.com/)**:
 ## 📬 Contact
 
 - **LinkedIn**: [Your LinkedIn URL]  
-- **Email**: [your.email@example.com]  
+- **Email**: [mohammedmohsin0725@gmail.com]  
 - **GitHub**: [@MohammedMohsin404](https://github.com/MohammedMohsin404)
 
 ---
